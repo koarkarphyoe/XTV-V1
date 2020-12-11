@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">XTV</string>
+    <string name="tv">TV</string>
+    <string name="banner_layout">IMG_16_9_APP_INSTALL#300530307719216_300530671052513</string>
+    <string name="interstitial_layout">300530307719216_300534441052136</string>
+</resources>
